@@ -1,14 +1,31 @@
-body{
-    margin: 0;
-    padding: 0;
+body {
+  margin: 0;
+  padding: 0;
 }
 
-.history{
-    text-align: center;
-    padding-top: 3%;
-    padding-bottom: 3%;
+.full-section {
+  background-image: url(images/retroGL.png);
 }
 
-.top-section{
-    padding-bottom: 5%;
+.history {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 100px;
+  color: #FFFFFF;
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;f18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+}
+
+.main-img {
+  padding-bottom: 15%;
+}
+
+.rounded {
+  margin: 0%;
+  -webkit-box-shadow: 5px 5px 15px 5px #ffffff;
+  box-shadow: 5px 5px 15px 5px #ffffff;
+}
+
+.history-head {
+  padding-bottom: 5%;
 }
