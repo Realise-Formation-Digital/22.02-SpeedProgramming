@@ -1,5 +1,0 @@
-Doom est une série de jeux vidéo de tir à la première personne développé par id Software. Le premier titre de la série, Doom, est publié en shareware sur PC en décembre 1993. Createur principal : John Carmark et John Romero.
-
-annee: 1993 
-
-platforme: MS-Dos / Windows
